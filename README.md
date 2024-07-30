@@ -16,6 +16,7 @@ Demo: https://resume-builder-frontend-kappa.vercel.app/
   - Front-end: React.js
   - Back-end: Strapi
   - UI: Tailwind CSS, Shadcn
+  - Database: postgresql
 
     
 ### Installation
