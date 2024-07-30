@@ -2,7 +2,7 @@
 
 Resume Builder is a web application that allows users to create professional resumes by adding multiple sections of information. Users can generate summaries with the help of AI
 
-Demo: https://blog-app-orcin-five.vercel.app/demo
+Demo: https://resume-builder-frontend-kappa.vercel.app/
 
 ## Features
 
