@@ -18,16 +18,21 @@ Demo: https://resume-builder-frontend-kappa.vercel.app/
   - UI: Tailwind CSS, Shadcn
 
     
-git clone https://github.com/your-username/resume-builder.git
-cd resume-builder
+### Installation
 
-npm install
-# or
-yarn install
+1. **Clone the Repository:**
 
-npm start
-# or
-yarn start
+   ```bash
+   git clone https://github.com/your-username/resume-builder.git
+   cd resume-builder
+
+   npm install
+     or
+   yarn install
+
+   npm start
+     or
+   yarn start
 
 ## Deployment
 
