@@ -1,8 +1,42 @@
-# React + Vite
+# Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Resume Builder is a web application that allows users to create professional resumes by adding multiple sections of information. Users can generate summaries with the help of AI
 
-Currently, two official plugins are available:
+Demo: https://resume-builder-frontend-kappa.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+  - User Authentication: Users can sign up, log in, and manage their profiles.
+  - Resume Creation: Add multiple sections to build a comprehensive resume.
+  - AI Integration: Generate resume summaries using AI for a polished and professional look
+  - Responsive Design: Ensures the application works well on all devices.
+
+## Technologies Used
+
+  - Front-end: React.js
+  - Back-end: Strapi
+  - UI: Tailwind CSS, Shadcn
+  - Database: postgresql
+
+    
+### Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/resume-builder.git
+   cd resume-builder
+
+   npm install
+     or
+   yarn install
+
+   npm start
+     or
+   yarn start
+
+## Deployment
+
+You can deploy the front end of this application on Vercel, Netlify, or any other static site hosting service. For the back end, you can use services like Heroku, Render, or DigitalOcean.
+
+
